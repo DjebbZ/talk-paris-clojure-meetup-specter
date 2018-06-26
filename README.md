@@ -1,6 +1,6 @@
 # talk-paris-clojure-meetup-specter
 
-Repository for my talk given at [Paris Clojure Meetup](https://www.meetup.com/fr-FR/Paris-Clojure-User-Group/events/251561870/), on June 25th 2018.
+Repository for my talk given at [Paris Clojure Meetup](https://www.meetup.com/fr-FR/Paris-Clojure-User-Group/events/251561870/), on June 25th 2018, about the [Specter](https://github.com/nathanmarz/specter) library
 
 ## Usage
 
